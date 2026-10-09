@@ -87,7 +87,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,md,latex,vscode,pycharm,git,cmake,linux,nodejs,sqlite&amp;theme=light&amp;perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cjs%2Cbash%2Chtml%2Ccss%2Cmd%2Clatex%2Cvscode%2Cpycharm%2Cgit%2Ccmake%2Clinux%2Cnodejs%2Csqlite&amp;theme=light&amp;perline=8" />
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,md,latex,vscode,pycharm,git,cmake,linux,nodejs,sqlite&amp;theme=dark&amp;perline=8" alt="C、C++、Python、JavaScript、Bash、HTML、CSS、Markdown、LaTeX、VS Code、PyCharm、Git、CMake、WSL/Linux、Node.js 和 SQLite 的图标" />
   </picture>
 </p>
