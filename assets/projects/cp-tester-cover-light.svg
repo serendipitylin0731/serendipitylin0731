@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500" role="img">
+  <title>CP Tester · 本地测评插件</title>
+  <desc>竖版功能示意，展示输入、预期输出与 AC 5/5 的测试结果。不是插件截图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f9fc"/><stop offset="1" stop-color="#eaf0fa"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#536480" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="358" height="498" rx="22" fill="url(#bg)" stroke="#cedae7"/>
+  <rect x="1" y="1" width="358" height="498" rx="22" fill="url(#grid)"/>
+  <path d="M22 17H338" stroke="#188a7a" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Inter, sans-serif">
+    <text x="28" y="55" fill="#188a7a" font-size="17" font-weight="700" letter-spacing="3">DEVELOPER TOOLS</text>
+    <text x="27" y="120" fill="#1d2b43" font-size="44" font-weight="800">CP Tester</text>
+    <text x="29" y="164" fill="#52627b" font-size="21">VS Code 算法测评插件</text>
+    <rect x="28" y="182" width="103" height="32" rx="16" fill="#e8f1f6" stroke="#188a7a" stroke-opacity=".35"/>
+    <text x="79.5" y="204" text-anchor="middle" fill="#188a7a" font-size="16" font-weight="700">Linux</text>
+    <rect x="141" y="182" width="120" height="32" rx="16" fill="#e8f1f6" stroke="#188a7a" stroke-opacity=".35"/>
+    <text x="201" y="204" text-anchor="middle" fill="#188a7a" font-size="16" font-weight="700">Windows</text>
+    <rect x="22" y="232" width="316" height="226" rx="18" fill="#ffffff" stroke="#cedae7"/>
+    <circle cx="46" cy="255" r="4" fill="#f19a9a"/><circle cx="60" cy="255" r="4" fill="#f0c477"/><circle cx="74" cy="255" r="4" fill="#70d9bf"/>
+    <text x="180" y="260" text-anchor="middle" fill="#52627b" font-size="14">LOCAL JUDGE</text>
+    <rect x="41" y="274" width="278" height="55" rx="11" fill="#e8f1f6"/>
+    <text x="180" y="295" text-anchor="middle" fill="#52627b" font-size="13" font-weight="700">INPUT 01</text>
+    <text x="180" y="318" text-anchor="middle" fill="#1d2b43" font-family="monospace" font-size="18" font-weight="700">5 3 8 2 1</text>
+    <rect x="41" y="338" width="278" height="55" rx="11" fill="#e8f1f6"/>
+    <text x="180" y="359" text-anchor="middle" fill="#52627b" font-size="13" font-weight="700">EXPECTED</text>
+    <text x="180" y="382" text-anchor="middle" fill="#1d2b43" font-family="monospace" font-size="18" font-weight="700">1 2 3 5 8</text>
+    <rect x="94" y="409" width="172" height="34" rx="17" fill="#188a7a" fill-opacity=".2" stroke="#188a7a" stroke-opacity=".6"/>
+    <text x="180" y="432" text-anchor="middle" fill="#188a7a" font-size="17" font-weight="800">AC 5 / 5</text>
+    <text x="180" y="481" text-anchor="middle" fill="#52627b" font-size="15">本地评测 · 输出比对</text>
+  </g>
+</svg>
