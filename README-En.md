@@ -30,7 +30,11 @@
 
 ## 👋 About me
 
-I'm **Hanfeng Lin** (born July 31, 2007), a Computer Science student in the **JOHN Class** at **Zhiyuan College, Shanghai Jiao Tong University**. I like turning real problems from study and daily life into useful tools: a railway trip planner, a VS Code local judging extension, course guides, and software for teaching and school administration.
+I'm **Hanfeng Lin** (born July 31, 2007), a Computer Science and Technology student in the **JOHN Class** at **Zhiyuan College, Shanghai Jiao Tong University**.
+
+I enjoy turning problems from studying and everyday life into useful tools. My projects include a railway trip planner, a VS Code local judging extension, and course materials. I also work on teaching and school administration software designed for practical use in schools.
+
+I'm interested in thought puzzles, mathematics, and programming problems. I often explore them on my own and would love to share ideas and discuss them with others!
 
 ### 🎓 Education and competition awards
 
@@ -46,7 +50,7 @@ I'm **Hanfeng Lin** (born July 31, 2007), a Computer Science student in the **JO
   </picture>
 </p>
 
-## My projects
+## 🧩 My projects
 
 ### 🚀 Completed projects
 
@@ -109,7 +113,7 @@ I'm **Hanfeng Lin** (born July 31, 2007), a Computer Science student in the **JO
 <table width="100%">
   <tr>
     <td width="64" align="center">♟️</td>
-    <td><strong>Arts and games:</strong> Chinese chess, international chess, Gomoku, calligraphy, drums, and fuse beads</td>
+    <td><strong>Arts and entertainments:</strong> Chinese chess, international chess, Gomoku, calligraphy, drums, and fuse beads</td>
   </tr>
 </table>
 
