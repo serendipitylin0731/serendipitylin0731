@@ -82,6 +82,7 @@
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass)助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/serendipitylin0731/gitlite_2026_stu)，并讲解搜索算法
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
 - 开发 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing)，协助书生中学整理教务统计工作
+- 开发《习近平新时代中国特色社会主义思想概论》课程个人项目 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent)，围绕福州“3820”战略工程探索可溯源的多智能体问答与分析
 
 ### 🛠️ 技术与工具
 

@@ -40,7 +40,7 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-medals-subtle-en-light.svg" />
-  <img src="./assets/timeline-medals-subtle-en-dark.svg" alt="Education spans: Wenling Chengdong Primary School, September 2013 to June 2019; Taizhou Jiaojiang Beishu School, September 2019 to June 2022; Taizhou Shusheng High School, September 2022 to June 2025; Zhiyuan College at Shanghai Jiao Tong University, since September 2025. Award milestones: National High School Mathematics Olympiad third prize in September 2023; Taizhou mathematics, physics, and informatics first prizes and chemistry second prize in March 2024; National High School Physics Competition third prize in September 2024; National College Mathematics Competition third prize in November 2025." width="100%" />
+  <img src="./assets/timeline-medals-subtle-en-dark.svg" alt="Education spans: Wenling Chengdong Primary School, September 2013 to June 2019; Taizhou Jiaojiang Beishu School, September 2019 to June 2022; Taizhou Sunson Middle School, September 2022 to June 2025; Zhiyuan College at Shanghai Jiao Tong University, since September 2025. Award milestones: National High School Mathematics Olympiad third prize in September 2023; Taizhou mathematics, physics, and informatics first prizes and chemistry second prize in March 2024; National High School Physics Competition third prize in September 2024; National College Mathematics Competition third prize in November 2025." width="100%" />
 </picture>
 
 <p align="center">
@@ -81,7 +81,8 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 - Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach search algorithms.
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
-- Developing a [teacher attendance and salary statistics program](https://github.com/serendipitylin0731/Salary_Computing) to help Taizhou Shusheng High School organize administrative records.
+- Developing a [teacher attendance and salary statistics program](https://github.com/serendipitylin0731/Salary_Computing) to help Taizhou Sunson Middle School organize administrative records.
+- Developing [a knowledge assistant and strategic analysis platform for Fuzhou's "3820" initiative](https://github.com/serendipitylin0731/3820_agent) as an individual project for the Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era course, exploring source-traceable multi-agent Q&A and analysis.
 
 ### 🛠️ Languages and tools
 
