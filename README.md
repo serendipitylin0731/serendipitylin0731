@@ -56,33 +56,19 @@
 
 > 可能会有不定期的 debug 或 improve 更新
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/rail-cover-light.svg" />
-    <img src="./assets/projects/rail-cover-dark.svg" alt="轨迹：Android 铁路出行规划路线示意" width="30%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/cp-tester-cover-light.svg" />
-    <img src="./assets/projects/cp-tester-cover-dark.svg" alt="CP Tester：竖版本地测评功能示意" width="30%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/guides-cover-light.svg" />
-    <img src="./assets/projects/guides-cover-dark.svg" alt="计算机入门讲义：Markdown、Git 和 WSL，下方的省略号表示还有更多内容" width="30%" />
-  </picture>
-</p>
-
 | 项目 | 简介 |
 | --- | --- |
 | 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Android 铁路出行规划工具；支持途径站、换乘筛选，以及联网或静态时刻表规划 |
 | 🧪 **CP Tester · VS Code 算法测评插件** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | 独立开发的本地测评插件，支持 C、C++、Python 程序的测试与输出比对（奶龙狂喜 bushi） |
 | 📚 [计算机入门讲义](https://github.com/serendipitylin0731/Instuction) | 独立编写的零基础工具指南，涵盖 Markdown、Git、WSL 等主题；打开仓库即可阅读原文 |
+| 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 独立开发的《习近平新时代中国特色社会主义思想概论》课程项目；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析 |
+| 🟢 [Codex Quota Rings · VS Code 额度插件](https://github.com/serendipitylin0731/codex_usage) | 独立开发的 VS Code 插件，在状态栏与资源管理器中展示 Codex 剩余额度和重置时间 |
 
 ### 🏫 近期项目
 
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass)助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/serendipitylin0731/gitlite_2026_stu)，并讲解搜索算法
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
 - 开发 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing)，协助书生中学整理教务统计工作
-- 开发《习近平新时代中国特色社会主义思想概论》课程个人项目 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent)，围绕福州“3820”战略工程探索可溯源的多智能体问答与分析
 
 ### 🛠️ 技术与工具
 

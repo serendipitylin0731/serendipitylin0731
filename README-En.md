@@ -56,33 +56,19 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 > I may still release occasional bug fixes and improvements.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/rail-cover-en-light.svg" />
-    <img src="./assets/projects/rail-cover-en-dark.svg" alt="Trajectory: a vertical illustration of an Android railway route planner" width="30%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/cp-tester-cover-en-light.svg" />
-    <img src="./assets/projects/cp-tester-cover-en-dark.svg" alt="CP Tester: a vertical illustration of local code judging" width="30%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/guides-cover-en-light.svg" />
-    <img src="./assets/projects/guides-cover-en-dark.svg" alt="Beginner Guides: Markdown, Git, WSL, and more topics" width="30%" />
-  </picture>
-</p>
-
 | Project | Description |
 | --- | --- |
 | 🚄 [Trajectory · Railway Trip Planner](https://github.com/serendipitylin0731/ticket_planner_realease) | An Android railway trip planning tool I developed independently, with via-station and transfer filters plus online or static timetable planning. |
 | 🧪 **CP Tester · VS Code local judge extension** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | A local judging extension I developed independently for testing C, C++, and Python programs and comparing their output (Nailong approves, just kidding). |
-| 📚 [Beginner Computing Guides](https://github.com/serendipitylin0731/Instuction) | Introductory guides I wrote on Markdown, Git, WSL, and other tools. The original guides are available in the repository. |
+| 📚 [Beginner Computing Guides](https://github.com/serendipitylin0731/Instuction) | Introductory guides I wrote independently on Markdown, Git, WSL, and other tools. The original guides are available in the repository. |
+| 🧭 [“3820” Knowledge Assistant and Strategic Analysis Platform](https://github.com/serendipitylin0731/3820_agent) | An independent project for the Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era course, with sourced Q&A, indicator queries, and spatial analysis of Fuzhou’s “3820” initiative. |
+| 🟢 [Codex Quota Rings · VS Code Extension](https://github.com/serendipitylin0731/codex_usage) | A VS Code extension I developed independently to show remaining Codex quota and reset times in the status bar and Explorer. |
 
 ### 🏫 Current projects
 
 - Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach search algorithms.
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
 - Developing a [teacher attendance and salary statistics program](https://github.com/serendipitylin0731/Salary_Computing) to help Taizhou Sunson Middle School organize administrative records.
-- Developing [a knowledge assistant and strategic analysis platform for Fuzhou's "3820" initiative](https://github.com/serendipitylin0731/3820_agent) as an individual project for the Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era course, exploring source-traceable multi-agent Q&A and analysis.
 
 ### 🛠️ Languages and tools
 
