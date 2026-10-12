@@ -32,6 +32,8 @@
 
 I'm **Hanfeng Lin** (born July 31, 2007), a Computer Science and Technology student in the **JOHN Class** at **Zhiyuan College, Shanghai Jiao Tong University**.
 
+I'm from Wenling, a small coastal city in Taizhou, Zhejiang, with plenty of good food. Guming (古茗) started there, and its “Universe Flagship Store” is there too. Wenling also has a Xin Rong Ji restaurant; the brand originated in Linhai, Taizhou. I currently live in Shanghai while studying.
+
 I enjoy turning problems from studying and everyday life into useful tools. My projects include a railway trip planner, a VS Code local judging extension, and course materials. I also work on teaching and school administration software designed for practical use in schools.
 
 I'm interested in thought puzzles, mathematics, and programming problems. I often explore them on my own and would love to share ideas and discuss them with others!
