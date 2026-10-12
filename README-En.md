@@ -90,26 +90,29 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 ## 🎮 Beyond code
 
-<table width="100%">
-  <tr>
-    <td width="64" align="center">🎮</td>
-    <td><strong>Games:</strong> QQ Speed (UID: <code>44758614</code>, <a href="https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV">Yunxi team</a>), Peacekeeper Elite, Arknights</td>
-  </tr>
-</table>
+Games, board games, music, and sports are all interests I keep pursuing beyond coding.
 
-<table width="100%">
-  <tr>
-    <td width="64" align="center">♟️</td>
-    <td><strong>Arts and entertainments:</strong> Chinese chess, international chess, Gomoku, calligraphy, drums, and fuse beads</td>
-  </tr>
-</table>
+### 🎮 Games
 
-<table width="100%">
-  <tr>
-    <td width="64" align="center">⚽</td>
-    <td><strong>Sports:</strong> Football (goalkeeper), badminton, pickleball, table tennis, and cycling</td>
-  </tr>
-</table>
+- **QQ Speed** · UID `44758614`, iOS/QQ account, and a member of the [Yunxi team](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV). I have stayed above 1,000 points in the Racing God rank for multiple seasons and serve as an active team examiner. My account has the full T-series and league lineup; I have experience organizing competitions and know the S-League well.
+  - **My strongest tracks:** 流觞曲水, 火星基地, 秋名山, 雪境裂渊, 泰坦之巅, 踏雪寻春, and 天工水城.
+- **Peacekeeper Elite** · I have reached high-star Ace rank for several consecutive seasons. I usually lead the squad, and also drive or snipe; I enjoy the classic Island and Valley maps. I am also good at Superpower Showdown, mainly playing Phantom Hunter (幻影猎手) and Lightning Vanguard (闪电尖兵), while filling in as Dimensional Geek (次元极客) or Combat Medic (战地医师) when needed. My squad has placed in the top three of online competitions multiple times.
+- **Minecraft** · I enjoy redstone and am also good at technical survival and building. I like designing simple, useful redstone machines, along with attractive bases and machine exteriors.
+- **Other games and esports** · I also play Clash Royale, Honor of Kings, Arknights, and CS:GO, and follow QQ Speed, Honor of Kings, PUBG, and CS:GO leagues.
+
+### ♟️ Arts and hobbies
+
+- **Board games:** Chinese chess, international chess, Gomoku, Jungle chess, and Reversi. Chinese chess is my strongest.
+- **Instruments:** Drum kit, ocarina, harmonica, African drum, and ukulele. Drums are my main instrument, and I have earned a Level 6 certificate.
+- **Other interests:** Calligraphy, fuse beads, Rubik's Cubes, food, and more.
+
+### ⚽ Sports
+
+- **Football:** I play goalkeeper; I am stronger on the goal line and my ball skills need work.
+- **Badminton:** I am good at net shots and sliced drop shots.
+- **Pickleball:** Third place in a course double-elimination tournament.
+- **Table tennis:** I have studied it for years. In a primary-school league, I reached the top eight with my team and the individual top four in Wenling.
+- **Cycling:** A personal hobby.
 
 <p align="center">
   <picture>
