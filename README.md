@@ -72,6 +72,10 @@
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
 - 开发 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing)，协助书生中学整理教务统计工作
 
+### 📚 资料分享
+
+我的一些报告演示文档、演示海报、研究相关文章，以及高中可用的一些资料保存在 [Documents 仓库](https://github.com/serendipitylin0731/Documents)，欢迎参考。
+
 ### 🛠️ 技术与工具
 
 <p align="center">
@@ -79,6 +83,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cjs%2Cbash%2Chtml%2Ccss%2Cmd%2Clatex%2Cvscode%2Cpycharm%2Cgit%2Ccmake%2Clinux%2Cnodejs%2Csqlite&amp;theme=light&amp;perline=8" />
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,md,latex,vscode,pycharm,git,cmake,linux,nodejs,sqlite&amp;theme=dark&amp;perline=8" alt="C、C++、Python、JavaScript、Bash、HTML、CSS、Markdown、LaTeX、VS Code、PyCharm、Git、CMake、WSL/Linux、Node.js 和 SQLite 的图标" />
   </picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/windows11.svg" /><img src="./assets/skills-extra/windows11-dark.svg" alt="WSL / Windows" width="48" height="48" /></picture>
+  <img src="./assets/skills-extra/gcc.svg" alt="GCC" width="48" height="48" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/jupyter.svg" /><img src="./assets/skills-extra/jupyter-dark.svg" alt="Jupyter" width="48" height="48" /></picture>
+  <img src="./assets/skills-extra/origin.png" alt="Origin" width="48" height="48" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/labview.svg" /><img src="./assets/skills-extra/labview-dark.svg" alt="LabVIEW" width="48" height="48" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/geogebra.svg" /><img src="./assets/skills-extra/geogebra-dark.svg" alt="GeoGebra" width="48" height="48" /></picture>
+  <img src="./assets/skills-extra/mermaid.svg" alt="Mermaid" width="48" height="48" />
 </p>
 
 <p align="center"><strong>编程语言与网页</strong> · C · C++ · Python · JavaScript · Bash/Shell · HTML/CSS<br /><strong>开发环境</strong> · VS Code · PyCharm · Node.js · WSL · Git · CMake · GCC<br /><strong>数据与图示</strong> · Jupyter · SQLite · Origin · LabVIEW · GeoGebra · Mermaid<br /><strong>文档</strong> · Markdown · LaTeX</p>
@@ -94,27 +108,35 @@
 
 游戏、棋盘、音乐和运动，都是我在代码之外持续投入的爱好。
 
+<table width="100%">
+  <tr>
+    <td align="center" width="33%"><img src="./assets/beyond-games.svg" alt="抽象赛道和游戏手柄" width="100%" /><br /><strong>🎮 游戏</strong></td>
+    <td align="center" width="33%"><img src="./assets/beyond-arts.svg" alt="棋盘、鼓槌与拼豆" width="100%" /><br /><strong>♟️ 文艺</strong></td>
+    <td align="center" width="33%"><img src="./assets/beyond-sports.svg" alt="球场和足球" width="100%" /><br /><strong>⚽ 运动</strong></td>
+  </tr>
+</table>
+
 ### 🎮 游戏
 
 - **QQ 飞车** · UID `44758614`，iOS/QQ 账号，加入[车队 · 云曦](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV)。多赛季稳定在千分车神以上，是车队的勤奋考官；全 T、全联赛账号，有组织比赛的经验，也很了解 S-联赛。
-  - **个人王图：**流觞曲水、火星基地、秋名山、雪境裂渊、泰坦之巅、踏雪寻春、天工水城。
+  - **个人王图：** 流觞曲水、火星基地、秋名山、雪境裂渊、泰坦之巅、踏雪寻春、天工水城。
 - **和平精英** · 连续多赛季达到高星王牌。主打指挥位，也担任驾驶位与狙击位；喜欢经典海岛和山谷。超体对抗主打幻影猎手、闪电尖兵，也能补位次元极客、战地医师；多次在线上小队竞赛中进入前三。
 - **我的世界** · 喜欢红石，也擅长生电与建筑；热衷于研究简单实用的红石机器，以及美观的基地和机器外观设计。
 - **其他游戏与赛事** · 也玩皇室战争、王者荣耀、明日方舟、CSGO 等；关注 QQ 飞车、王者荣耀、PUBG、CSGO 等项目的联赛。
 
 ### ♟️ 文艺
 
-- **棋类：**中国象棋、国际象棋、五子棋、斗兽棋、黑白棋，其中最擅长中国象棋。
-- **乐器：**架子鼓、陶笛、口琴、非洲鼓、尤克里里；主要擅长架子鼓，已获得六级证书。
-- **其他爱好：**书法、拼豆、魔方、美食……
+- **棋类：** 中国象棋、国际象棋、五子棋、斗兽棋、黑白棋，其中最擅长中国象棋。
+- **乐器：** 架子鼓、陶笛、口琴、非洲鼓、尤克里里；主要擅长架子鼓，已获得六级证书。
+- **其他爱好：** 书法、拼豆、魔方、美食……
 
 ### ⚽ 运动
 
-- **足球：**守门员，门线技术较强，脚法相对欠缺。
-- **羽毛球：**擅长网前小球与劈吊。
-- **匹克球：**课程双败淘汰赛季军。
-- **乒乓球：**有多年学习经验；小学乒乓球联赛获得温岭市团队八强、个人四强。
-- **自行车：**个人爱好。
+- **足球：** 守门员，门线技术较强，脚法相对欠缺。
+- **羽毛球：** 擅长网前小球与劈吊。
+- **匹克球：** 课程双败淘汰赛季军。
+- **乒乓球：** 有多年学习经验；小学乒乓球联赛获得温岭市团队八强、个人四强。
+- **自行车：** 个人爱好。
 
 <p align="center">
   <picture>

@@ -72,6 +72,10 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
 - Developing a [teacher attendance and salary statistics program](https://github.com/serendipitylin0731/Salary_Computing) to help Taizhou Sunson Middle School organize administrative records.
 
+### 📚 Shared resources
+
+Some of my presentation slides, posters, research-related articles, and materials useful to high school students are in my [Documents repository](https://github.com/serendipitylin0731/Documents). Feel free to use them as a reference.
+
 ### 🛠️ Languages and tools
 
 <p align="center">
@@ -79,6 +83,16 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cjs%2Cbash%2Chtml%2Ccss%2Cmd%2Clatex%2Cvscode%2Cpycharm%2Cgit%2Ccmake%2Clinux%2Cnodejs%2Csqlite&amp;theme=light&amp;perline=8" />
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,md,latex,vscode,pycharm,git,cmake,linux,nodejs,sqlite&amp;theme=dark&amp;perline=8" alt="Icons for C, C++, Python, JavaScript, Bash, HTML, CSS, Markdown, LaTeX, VS Code, PyCharm, Git, CMake, WSL/Linux, Node.js, and SQLite" />
   </picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/windows11.svg" /><img src="./assets/skills-extra/windows11-dark.svg" alt="WSL / Windows" width="48" height="48" /></picture>
+  <img src="./assets/skills-extra/gcc.svg" alt="GCC" width="48" height="48" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/jupyter.svg" /><img src="./assets/skills-extra/jupyter-dark.svg" alt="Jupyter" width="48" height="48" /></picture>
+  <img src="./assets/skills-extra/origin.png" alt="Origin" width="48" height="48" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/labview.svg" /><img src="./assets/skills-extra/labview-dark.svg" alt="LabVIEW" width="48" height="48" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="./assets/skills-extra/geogebra.svg" /><img src="./assets/skills-extra/geogebra-dark.svg" alt="GeoGebra" width="48" height="48" /></picture>
+  <img src="./assets/skills-extra/mermaid.svg" alt="Mermaid" width="48" height="48" />
 </p>
 
 <p align="center"><strong>Programming and web</strong> · C · C++ · Python · JavaScript · Bash/Shell · HTML/CSS<br /><strong>Development environment</strong> · VS Code · PyCharm · Node.js · WSL · Git · CMake · GCC<br /><strong>Data and diagrams</strong> · Jupyter · SQLite · Origin · LabVIEW · GeoGebra · Mermaid<br /><strong>Documentation</strong> · Markdown · LaTeX</p>
@@ -93,6 +107,14 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 ## 🎮 Beyond code
 
 Games, board games, music, and sports are all interests I keep pursuing beyond coding.
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%"><img src="./assets/beyond-games.svg" alt="Abstract race track and game controller" width="100%" /><br /><strong>🎮 Games</strong></td>
+    <td align="center" width="33%"><img src="./assets/beyond-arts.svg" alt="Chessboard, drumsticks, and fuse beads" width="100%" /><br /><strong>♟️ Arts &amp; hobbies</strong></td>
+    <td align="center" width="33%"><img src="./assets/beyond-sports.svg" alt="Sports field and football" width="100%" /><br /><strong>⚽ Sports</strong></td>
+  </tr>
+</table>
 
 ### 🎮 Games
 
