@@ -119,7 +119,7 @@ Games, board games, music, and sports are all interests I keep pursuing beyond c
 ### 🎮 Games
 
 - **QQ Speed** · UID `44758614`, iOS/QQ account, and a member of the [Yunxi team](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV). I have stayed above 1,000 points in the Racing God rank for multiple seasons and serve as an active team examiner. My account has the full T-series and league lineup; I have experience organizing competitions and know the S-League well.
-  - **My strongest tracks:** 流觞曲水, 火星基地, 秋名山, 雪境裂渊, 泰坦之巅, 踏雪寻春, and 天工水城.
+  - **My strongest tracks:** 流觞曲水, 火星基地, 秋名山, 雪境裂渊, 泰坦之巅, 龙晶湖, and 天工水城.
 - **Peacekeeper Elite** · I have reached high-star Ace rank for several consecutive seasons. I usually lead the squad, and also drive or snipe; I enjoy the classic Island and Valley maps. I am also good at Superpower Showdown, mainly playing Phantom Hunter (幻影猎手) and Lightning Vanguard (闪电尖兵), while filling in as Dimensional Geek (次元极客) or Combat Medic (战地医师) when needed. My squad has placed in the top three of online competitions multiple times.
 - **Minecraft** · I enjoy redstone and am also good at technical survival and building. I like designing simple, useful redstone machines, along with attractive bases and machine exteriors.
 - **Other games and esports** · I also play Clash Royale, Honor of Kings, Arknights, and CS:GO, and follow QQ Speed, Honor of Kings, PUBG, and CS:GO leagues.
@@ -147,7 +147,11 @@ Games, board games, music, and sports are all interests I keep pursuing beyond c
 
 ## 📬 Get in touch
 
-Have a project idea, want to discuss a course, or interested in collaborating? Email me at **[serendipity_lin@sjtu.edu.cn](mailto:serendipity_lin@sjtu.edu.cn)**. You can also browse my current work in my [GitHub repositories](https://github.com/serendipitylin0731?tab=repositories).
+Have a project idea, want to discuss a course, or interested in collaborating? Reach me through any of the following channels. You can also visit my [GitHub profile](https://github.com/serendipitylin0731).
+
+- **Email:** [serendipity_lin@sjtu.edu.cn](mailto:serendipity_lin@sjtu.edu.cn)
+- **Yunxi team assessment QQ group:** 743475670
+- **WeChat:** srendipity_Lin0731 (please say who you are and why you're reaching out when adding me)
 
 <p align="center">
   <picture>

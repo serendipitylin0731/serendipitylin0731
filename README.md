@@ -119,7 +119,7 @@
 ### 🎮 游戏
 
 - **QQ 飞车** · UID `44758614`，iOS/QQ 账号，加入[车队 · 云曦](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV)。多赛季稳定在千分车神以上，是车队的勤奋考官；全 T、全联赛账号，有组织比赛的经验，也很了解 S-联赛。
-  - **个人王图：** 流觞曲水、火星基地、秋名山、雪境裂渊、泰坦之巅、踏雪寻春、天工水城。
+  - **个人王图：** 流觞曲水、火星基地、秋名山、雪境裂渊、泰坦之巅、龙晶湖、天工水城。
 - **和平精英** · 连续多赛季达到高星王牌。主打指挥位，也担任驾驶位与狙击位；喜欢经典海岛和山谷。超体对抗主打幻影猎手、闪电尖兵，也能补位次元极客、战地医师；多次在线上小队竞赛中进入前三。
 - **我的世界** · 喜欢红石，也擅长生电与建筑；热衷于研究简单实用的红石机器，以及美观的基地和机器外观设计。
 - **其他游戏与赛事** · 也玩皇室战争、王者荣耀、明日方舟、CSGO 等；关注 QQ 飞车、王者荣耀、PUBG、CSGO 等项目的联赛。
@@ -147,7 +147,11 @@
 
 ## 📬 联系我
 
-有项目想法、课程交流或合作建议，欢迎写信到 **[serendipity_lin@sjtu.edu.cn](mailto:serendipity_lin@sjtu.edu.cn)**。也可以从 [GitHub 仓库](https://github.com/serendipitylin0731?tab=repositories) 找到我正在做的项目
+有项目想法、课程交流或合作建议，欢迎通过以下方式联系我。也可以访问我的 [GitHub 主页](https://github.com/serendipitylin0731)。
+
+- **个人邮箱：** [serendipity_lin@sjtu.edu.cn](mailto:serendipity_lin@sjtu.edu.cn)
+- **云曦车队考核群 QQ：** 743475670
+- **微信：** srendipity_Lin0731（添加时请注明你是谁和来意）
 
 <p align="center">
   <picture>
