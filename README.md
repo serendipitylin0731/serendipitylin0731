@@ -60,11 +60,11 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Android 铁路出行规划工具；支持途径站、换乘筛选，以及联网或静态时刻表规划 |
-| 🧪 **CP Tester · VS Code 算法测评插件** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | 独立开发的本地测评插件，支持 C、C++、Python 程序的测试与输出比对（奶龙狂喜 bushi） |
-| 📚 [计算机入门讲义](https://github.com/serendipitylin0731/Instuction) | 独立编写的零基础工具指南，涵盖 Markdown、Git、WSL 等主题；打开仓库即可阅读原文 |
+| 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Web 与 Android 铁路出行规划工具；支持多出发站、到达站和按顺序经过的途径站，最多规划 3 次换乘；可查询 12306 车次，也能用离线静态时刻表生成候选行程 |
+| 🧪 **CP Tester · VS Code 算法测评插件** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | 独立开发的 VS Code 本地测评插件，支持 C、C++、Python；可手动添加用例或批量导入 `.in` / `.out` 数据，设置时间与内存限制，并查看每个测试点的结果、耗时和内存占用（奶龙狂喜 bushi） |
+| 📚 [计算机入门讲义](https://github.com/serendipitylin0731/Instuction) | 独立编写的零基础工具指南，涵盖 Markdown、LaTeX、正则表达式、Mermaid、Git 与 WSL；既可按步骤入门，也可在 GitHub 直接阅读并作为速查手册使用 |
 | 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 中国教育技术协会——“AI+教育”创新应用技能大赛参赛作品，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
-| 🟢 [Codex Quota Rings · VS Code 额度插件](https://github.com/serendipitylin0731/codex_usage) | 独立开发的 VS Code 插件，在状态栏与资源管理器中展示 Codex 剩余额度和重置时间 |
+| 🟢 [Codex Quota Rings · VS Code 额度插件](https://github.com/serendipitylin0731/codex_usage) | 独立开发的 VS Code 插件，在状态栏与资源管理器中展示 Codex 5 小时和 7 天窗口的剩余额度、重置时间与次数；圆环区分已用和剩余额度，支持自动或手动刷新 |
 
 ### 🏫 近期项目
 
