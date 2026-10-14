@@ -63,7 +63,7 @@
 | 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Android 铁路出行规划工具；支持途径站、换乘筛选，以及联网或静态时刻表规划 |
 | 🧪 **CP Tester · VS Code 算法测评插件** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | 独立开发的本地测评插件，支持 C、C++、Python 程序的测试与输出比对（奶龙狂喜 bushi） |
 | 📚 [计算机入门讲义](https://github.com/serendipitylin0731/Instuction) | 独立编写的零基础工具指南，涵盖 Markdown、Git、WSL 等主题；打开仓库即可阅读原文 |
-| 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 独立开发的《习近平新时代中国特色社会主义思想概论》课程项目；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析 |
+| 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 中国教育技术协会——“AI+教育”创新应用技能大赛参赛作品，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
 | 🟢 [Codex Quota Rings · VS Code 额度插件](https://github.com/serendipitylin0731/codex_usage) | 独立开发的 VS Code 插件，在状态栏与资源管理器中展示 Codex 剩余额度和重置时间 |
 
 ### 🏫 近期项目
