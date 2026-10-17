@@ -71,6 +71,7 @@
 
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/serendipitylin0731/gitlite_2026_stu)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-divide%26conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
+- 开发 [Markdown Preview & Compiler](https://github.com/serendipitylin0731/markdown_preview-compiler)，一款 VS Code Markdown 编辑扩展，支持源码编辑、分屏预览、所见即所得编辑，以及 PDF 对照预览与导出
 
 ### 📚 资料分享
 
