@@ -65,7 +65,7 @@
 | 📚 [计算机入门讲义](https://github.com/serendipitylin0731/Instuction) | 独立编写的零基础工具指南，涵盖 Markdown、LaTeX、正则表达式、Mermaid、Git 与 WSL；既可按步骤入门，也可在 GitHub 直接阅读并作为速查手册使用 |
 | 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 中国教育技术协会——“AI+教育”创新应用技能大赛参赛作品，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
 | 🟢 [Codex Quota Rings · VS Code 额度插件](https://github.com/serendipitylin0731/codex_usage) | 独立开发的 VS Code 插件，在状态栏与资源管理器中展示 Codex 5 小时和 7 天窗口的剩余额度、重置时间与次数；圆环区分已用和剩余额度，支持自动或手动刷新 |
-| 🏫 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing) | 协助书生中学整理教务统计工作 |
+| 🏫 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing) | 基于 Tkinter 的本地桌面工具，为书生中学批量导入班级坐班统计表；自动核对节数、标记异常数据并辅助修正教师姓名，校验后预览津贴明细并导出 Excel 工资表 |
 
 ### 🏫 近期项目
 

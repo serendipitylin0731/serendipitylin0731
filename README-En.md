@@ -65,7 +65,7 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 | 📚 [Beginner Computing Guides](https://github.com/serendipitylin0731/Instuction) | Beginner-friendly guides I wrote on Markdown, LaTeX, regular expressions, Mermaid, Git, and WSL. Follow them step by step or read them directly on GitHub as quick references. |
 | 🧭 [“3820” Knowledge Assistant and Strategic Analysis Platform](https://github.com/serendipitylin0731/3820_agent) | An entry in the China Association for Educational Technology’s “AI+Education” Innovative Application Skills Competition that supports teaching the Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era course. Centered on Fuzhou’s “3820” strategic initiative, it provides sourced Q&A, indicator queries, spatial analysis, and direct search of existing materials. |
 | 🟢 [Codex Quota Rings · VS Code Extension](https://github.com/serendipitylin0731/codex_usage) | An independently developed VS Code extension showing Codex quota for the five-hour and seven-day windows in the status bar and Explorer, with reset details, usage rings, and automatic or manual refresh. |
-| 🏫 [Teacher Attendance and Salary Statistics Program](https://github.com/serendipitylin0731/Salary_Computing) | A program to help Taizhou Sunson Middle School organize administrative records. |
+| 🏫 [Teacher Attendance and Salary Statistics Program](https://github.com/serendipitylin0731/Salary_Computing) | A local Tkinter desktop tool for Taizhou Sunson Middle School that imports class attendance sheets in batches, checks session counts, flags data errors, and helps correct teacher names. It previews allowance totals after validation and exports an Excel salary sheet. |
 
 ### 🏫 Current projects
 
