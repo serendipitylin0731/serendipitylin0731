@@ -65,12 +65,12 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 | 📚 [Beginner Computing Guides](https://github.com/serendipitylin0731/Instuction) | Beginner-friendly guides I wrote on Markdown, LaTeX, regular expressions, Mermaid, Git, and WSL. Follow them step by step or read them directly on GitHub as quick references. |
 | 🧭 [“3820” Knowledge Assistant and Strategic Analysis Platform](https://github.com/serendipitylin0731/3820_agent) | An entry in the China Association for Educational Technology’s “AI+Education” Innovative Application Skills Competition that supports teaching the Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era course. Centered on Fuzhou’s “3820” strategic initiative, it provides sourced Q&A, indicator queries, spatial analysis, and direct search of existing materials. |
 | 🟢 [Codex Quota Rings · VS Code Extension](https://github.com/serendipitylin0731/codex_usage) | An independently developed VS Code extension showing Codex quota for the five-hour and seven-day windows in the status bar and Explorer, with reset details, usage rings, and automatic or manual refresh. |
+| 🏫 [Teacher Attendance and Salary Statistics Program](https://github.com/serendipitylin0731/Salary_Computing) | A program to help Taizhou Sunson Middle School organize administrative records. |
 
 ### 🏫 Current projects
 
-- Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach search algorithms.
+- Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach [divide and conquer algorithms and sorting](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-divide%26conquer.pdf) and [search algorithms](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx).
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
-- Developing a [teacher attendance and salary statistics program](https://github.com/serendipitylin0731/Salary_Computing) to help Taizhou Sunson Middle School organize administrative records.
 
 ### 📚 Shared resources
 
