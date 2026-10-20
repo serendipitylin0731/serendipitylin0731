@@ -58,22 +58,31 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 > I may still release occasional bug fixes and improvements.
 
+#### VS Code extensions
+
+| Project | Description |
+| --- | --- |
+| 🧪 **CP Tester · VS Code local judge extension** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | An independently developed VS Code local judge for C, C++, and Python. Add cases manually or import `.in` / `.out` files in batches, set time and memory limits, and inspect each case’s verdict and resource usage (Nailong approves, just kidding). |
+| 🟢 [Codex Quota Rings · VS Code Extension](https://github.com/serendipitylin0731/codex_usage) | An independently developed VS Code extension showing Codex quota for the five-hour and seven-day windows in the status bar and Explorer, with reset details, usage rings, and automatic or manual refresh. |
+| 📝 [Markdown Preview & Compiler](https://github.com/serendipitylin0731/markdown_preview-compiler) | An independently developed VS Code Markdown extension with source editing, split preview, WYSIWYG editing, side-by-side PDF preview, and PDF export. |
+
+#### Software
+
 | Project | Description |
 | --- | --- |
 | 🚄 [Trajectory · Railway Trip Planner](https://github.com/serendipitylin0731/ticket_planner_realease) | An independently developed Web and Android railway trip planner. It supports multiple departure and arrival stations, ordered via stations, and up to three transfers; it can query 12306 trains or plan offline from a static timetable. |
-| 🧪 **CP Tester · VS Code local judge extension** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | An independently developed VS Code local judge for C, C++, and Python. Add cases manually or import `.in` / `.out` files in batches, set time and memory limits, and inspect each case’s verdict and resource usage (Nailong approves, just kidding). |
-| 📚 [Beginner Computing Guides](https://github.com/serendipitylin0731/Instuction) | Beginner-friendly guides I wrote on Markdown, LaTeX, regular expressions, Mermaid, Git, and WSL. Follow them step by step or read them directly on GitHub as quick references. |
 | 🧭 [“3820” Knowledge Assistant and Strategic Analysis Platform](https://github.com/serendipitylin0731/3820_agent) | An entry in the China Association for Educational Technology’s “AI+Education” Innovative Application Skills Competition that supports teaching the Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era course. Centered on Fuzhou’s “3820” strategic initiative, it provides sourced Q&A, indicator queries, spatial analysis, and direct search of existing materials. |
-| 🟢 [Codex Quota Rings · VS Code Extension](https://github.com/serendipitylin0731/codex_usage) | An independently developed VS Code extension showing Codex quota for the five-hour and seven-day windows in the status bar and Explorer, with reset details, usage rings, and automatic or manual refresh. |
+| 📖 [Zhiye TA Agent](https://github.com/serendipitylin0731/TA_agent) | A textbook knowledge base and question-answering system for middle and high school students and teachers. It covers 113 textbooks and supports answers with textbook and PDF page references, full-text search, and two-page reading. |
 | 🏫 [Teacher Attendance and Salary Statistics Program](https://github.com/serendipitylin0731/Salary_Computing) | A local Tkinter desktop tool for Taizhou Sunson Middle School that imports class attendance sheets in batches, checks session counts, flags data errors, and helps correct teacher names. It previews allowance totals after validation and exports an Excel salary sheet. |
 
 ### 🏫 Current projects
 
-- Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach [divide and conquer algorithms and sorting](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-divide%26conquer.pdf) and [search algorithms](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx).
+- Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach [divide and conquer algorithms and sorting](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf) and [search algorithms](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx).
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
-- Developing [Markdown Preview & Compiler](https://github.com/serendipitylin0731/markdown_preview-compiler), a VS Code Markdown extension with source editing, split preview, WYSIWYG editing, side-by-side PDF preview, and PDF export.
 
 ### 📚 Shared resources
+
+**[Beginner Computing Guides](https://github.com/serendipitylin0731/Instuction):** Beginner-friendly guides I wrote on Markdown, LaTeX, regular expressions, Mermaid, Git, and WSL. Follow them step by step or read them directly on GitHub as quick references.
 
 Some of my presentation slides, posters, research-related articles, and materials useful to high school students are in my [Documents repository](https://github.com/serendipitylin0731/Documents). Feel free to use them as a reference.
 
@@ -107,7 +116,7 @@ Some of my presentation slides, posters, research-related articles, and material
 
 ## 🎮 Beyond code
 
-Games, board games, music, and sports are all interests I keep pursuing beyond coding.
+Beyond coding, I devote time to games, board games, music, and sports.
 
 <table width="100%">
   <tr>
@@ -119,25 +128,25 @@ Games, board games, music, and sports are all interests I keep pursuing beyond c
 
 ### 🎮 Games
 
-- **QQ Speed** · UID `44758614`, iOS/QQ account, and a member of the [Yunxi team](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV). I have stayed above 1,000 points in the Racing God rank for multiple seasons and serve as an active team examiner. My account has the full T-series and league lineup; I have experience organizing competitions and know the S-League well.
+- **QQ Speed** · UID `44758614`, iOS/QQ account, and a member of the [Yunxi team](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV). I have stayed above 1,000 points in the Racing God rank for multiple seasons and actively serve as a team examiner. My account has the full T-series and league lineup; I have experience organizing competitions and am familiar with the S-League.
   - **My strongest tracks:** 流觞曲水, 火星基地, 秋名山, 雪境裂渊, 泰坦之巅, 龙晶湖, and 天工水城.
-- **Peacekeeper Elite** · I have reached high-star Ace rank for several consecutive seasons. I usually lead the squad, and also drive or snipe; I enjoy the classic Island and Valley maps. I am also good at Superpower Showdown, mainly playing Phantom Hunter (幻影猎手) and Lightning Vanguard (闪电尖兵), while filling in as Dimensional Geek (次元极客) or Combat Medic (战地医师) when needed. My squad has placed in the top three of online competitions multiple times.
-- **Minecraft** · I enjoy redstone and am also good at technical survival and building. I like designing simple, useful redstone machines, along with attractive bases and machine exteriors.
+- **Peacekeeper Elite** · I have reached high-star Ace rank for several consecutive seasons. I primarily lead the squad and can also drive or snipe; I enjoy the classic Island and Valley maps. In Superpower Showdown, I mainly play Phantom Hunter (幻影猎手) and Lightning Vanguard (闪电尖兵), while filling in as Dimensional Geek (次元极客) or Combat Medic (战地医师) when needed. My squad has placed in the top three of online competitions multiple times.
+- **Minecraft** · I enjoy redstone and have experience in technical survival and building. I focus on designing practical redstone machines, as well as visually appealing bases and machinery.
 - **Other games and esports** · I also play Clash Royale, Honor of Kings, Arknights, and CS:GO, and follow QQ Speed, Honor of Kings, PUBG, and CS:GO leagues.
 
 ### ♟️ Arts and hobbies
 
 - **Board games:** Chinese chess, international chess, Gomoku, Jungle chess, and Reversi. Chinese chess is my strongest.
 - **Instruments:** Drum kit, ocarina, harmonica, African drum, and ukulele. Drums are my main instrument, and I have earned a Level 6 certificate.
-- **Other interests:** Calligraphy, fuse beads, Rubik's Cubes, food, and more.
+- **Other interests:** Calligraphy, fuse beads, Rubik's Cubes, and food, among others.
 
 ### ⚽ Sports
 
-- **Football:** I play goalkeeper; I am stronger on the goal line and my ball skills need work.
+- **Football:** I play goalkeeper; my goal-line skills are stronger, while my footwork remains an area for improvement.
 - **Badminton:** I am good at net shots and sliced drop shots.
 - **Pickleball:** Third place in a course double-elimination tournament.
 - **Table tennis:** I have studied it for years. In a primary-school league, I reached the top eight with my team and the individual top four in Wenling.
-- **Cycling:** A personal hobby.
+- **Cycling:** A personal interest.
 
 <p align="center">
   <picture>
