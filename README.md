@@ -70,7 +70,7 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Web 与 Android 铁路出行规划工具；支持多出发站、到达站和按顺序经过的途径站，最多规划 3 次换乘；可查询 12306 车次，也能用离线静态时刻表生成候选行程 |
+| 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Web 与 Android 铁路出行规划工具；支持多组出发、到达及有序途径站，按日期查询 12306 实际车次，规划直达或最多 3 次换乘；结果分直达和中转展示，社区静态时刻表仅辅助搜索 |
 | 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 中国教育技术协会——“AI+教育”创新应用技能大赛参赛作品，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
 | 📖 [知页 TA Agent](https://github.com/serendipitylin0731/TA_agent) | 面向初高中师生的教材知识库与智能问答系统；接入 113 册教材，支持带教材与 PDF 页码来源的问答、原文检索和双页阅读 |
 | 🏫 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing) | 基于 Tkinter 的本地桌面工具，为书生中学批量导入班级坐班统计表；自动核对节数、标记异常数据并辅助修正教师姓名，校验后预览津贴明细并导出 Excel 工资表 |
