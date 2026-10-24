@@ -79,6 +79,7 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 - Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach [divide and conquer algorithms and sorting](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf) and [search algorithms](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx).
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
+- Developing [Shit Code Detector](https://github.com/serendipitylin0731/shit-code_detector), a VS Code code quality extension that scans workspaces, selected files, or HTTPS Git repositories. It reports traceable issue scores and offers optional AI review.
 
 ### 📚 Shared resources
 

@@ -79,6 +79,7 @@
 
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/serendipitylin0731/gitlite_2026_stu)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
+- 开发 [Shit Code Detector](https://github.com/serendipitylin0731/shit-code_detector)：一款 VS Code 代码质量评分插件，可扫描工作区、选定文件或 HTTPS Git 仓库；按问题累加可追溯的“shit 分”，并可选用 AI 辅助审查
 
 ### 📚 资料分享
 
