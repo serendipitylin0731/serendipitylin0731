@@ -130,7 +130,8 @@ Beyond coding, I devote time to games, board games, music, and sports.
 ### 🎮 Games
 
 - **QQ Speed** · UID `44758614`, iOS/QQ account, and a member of the [Yunxi team](https://www.douyin.com/user/MS4wLjABAAAA5cQxzhgNTyrF6Nzu1o-rQjxXcQnFDkVfGVZofKXqukvKc4JqRauw4z-jXmtkR6JV). I have stayed above 1,000 points in the Racing God rank for multiple seasons and actively serve as a team examiner. My account has the full T-series and league lineup; I have experience organizing competitions and am familiar with the S-League.
-  - **My strongest tracks:** 流觞曲水, 火星基地, 秋名山, 雪境裂渊, 泰坦之巅, 龙晶湖, and 天工水城.
+  - **My strongest tracks:** 特洛伊环城, 流觞曲水, 火星基地, and 赤城红叶.
+  - **Favorite tracks:** 泰坦之巅, 龙晶湖, 八闽山海, 雪境裂渊, 踏雪寻春, 浪漫海滨, 秋名山, 心渊, and 猫梦浮屋.
 - **Peacekeeper Elite** · I have reached high-star Ace rank for several consecutive seasons. I primarily lead the squad and can also drive or snipe; I enjoy the classic Island and Valley maps. In Superpower Showdown, I mainly play Phantom Hunter (幻影猎手) and Lightning Vanguard (闪电尖兵), while filling in as Dimensional Geek (次元极客) or Combat Medic (战地医师) when needed. My squad has placed in the top three of online competitions multiple times.
 - **Minecraft** · I enjoy redstone and have experience in technical survival and building. I focus on designing practical redstone machines, as well as visually appealing bases and machinery.
 - **Other games and esports** · I also play Clash Royale, Honor of Kings, Arknights, and CS:GO, and follow QQ Speed, Honor of Kings, PUBG, and CS:GO leagues.
