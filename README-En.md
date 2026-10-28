@@ -81,6 +81,7 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 - Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/serendipitylin0731/gitlite_2026_stu), and teach [divide and conquer algorithms and sorting](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf) and [search algorithms](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx).
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
 - Developing [QQ Speed Garage (极速仓库)](https://github.com/serendipitylin0731/QQspeed_gaming), a local QQ Speed library and event manager with track and car catalogs, pool filters, a random wheel, match scoring, and saved results. Data stays local and can be backed up.
+- Developing [ChatGPT Plus Quota Launcher](https://github.com/serendipitylin0731/codex-preuse), a Windows desktop utility that reads the five-hour Codex quota through the local Codex App Server. It follows configurable time-zone and disabled-hour rules, sends a lightweight task when conditions match, and offers confirmed manual sending and tray operation.
 
 ### 📚 Shared resources
 

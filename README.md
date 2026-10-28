@@ -81,6 +81,7 @@
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/serendipitylin0731/gitlite_2026_stu)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
 - 开发 [极速仓库](https://github.com/serendipitylin0731/QQspeed_gaming)：一款 QQ 飞车本地资料与赛事管理应用，整合地图和赛车图鉴、图池筛选与随机转盘、赛事计分台和战绩存档；数据在本地保存，可导出备份
+- 开发 [ChatGPT Plus 额度启动器](https://github.com/serendipitylin0731/codex-preuse)：一款 Windows 桌面工具，通过本机 Codex App Server 读取五小时额度；可设置时区与禁用时段，在满足条件时自动发送轻量任务，也支持确认后手动发送和托盘后台运行
 
 ### 📚 资料分享
 
