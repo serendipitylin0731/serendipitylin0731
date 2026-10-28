@@ -65,6 +65,7 @@
 | 🧪 **CP Tester · VS Code 算法测评插件** · [Linux](https://github.com/serendipitylin0731/CP_Tester_Linux) / [Windows](https://github.com/serendipitylin0731/CP_Tester_Windows) | 独立开发的 VS Code 本地测评插件，支持 C、C++、Python；可手动添加用例或批量导入 `.in` / `.out` 数据，设置时间与内存限制，并查看每个测试点的结果、耗时和内存占用（奶龙狂喜 bushi） |
 | 🟢 [Codex Quota Rings · VS Code 额度插件](https://github.com/serendipitylin0731/codex_usage) | 独立开发的 VS Code 插件，在状态栏与资源管理器中展示 Codex 5 小时和 7 天窗口的剩余额度、重置时间与次数；圆环区分已用和剩余额度，支持自动或手动刷新 |
 | 📝 [Markdown Preview & Compiler](https://github.com/serendipitylin0731/markdown_preview-compiler) | 独立开发的 VS Code Markdown 编辑扩展，支持源码编辑、分屏预览、所见即所得编辑，以及 PDF 对照预览与导出 |
+| 🔍 [Shit Code Detector](https://github.com/serendipitylin0731/shit-code_detector) | 独立开发的 VS Code 代码风格评分插件；扫描当前项目、编辑器单文件或 HTTPS Git 仓库，结合本地规则与可选 AI 审查给出 0–9 分，支持筛选规则、问题追溯和报告导出 |
 
 #### 软件
 
@@ -79,7 +80,7 @@
 
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/serendipitylin0731/gitlite_2026_stu)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
-- 开发 [Shit Code Detector](https://github.com/serendipitylin0731/shit-code_detector)：一款 VS Code 代码质量评分插件，可扫描工作区、选定文件或 HTTPS Git 仓库；按问题累加可追溯的“shit 分”，并可选用 AI 辅助审查
+- 开发 [极速仓库](https://github.com/serendipitylin0731/QQspeed_gaming)：一款 QQ 飞车本地资料与赛事管理应用，整合地图和赛车图鉴、图池筛选与随机转盘、赛事计分台和战绩存档；数据在本地保存，可导出备份
 
 ### 📚 资料分享
 
