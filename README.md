@@ -41,8 +41,8 @@
 ### 🎓 学习经历与竞赛获奖
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-medals-subtle-light.svg" />
-  <img src="./assets/timeline-medals-subtle-dark.svg" alt="学习经历以线段表示：2013.09–2019.06 温岭市城东小学，2019.09–2022.06 台州椒江北书学校，2022.09–2025.06 台州市书生中学，2025.09 至今上海交通大学致远学院。竞赛获奖以节点表示：2023.09 全国中学生奥林匹克数学竞赛三等奖🥉；2024.03 台州市数学、物理、信息学竞赛一等奖🥇及化学竞赛二等奖🥈；2024.09 全国中学生物理竞赛三等奖🥉；2025.11 全国大学生数学竞赛三等奖🥉" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-medals-subtle-light.svg?v=202611" />
+  <img src="./assets/timeline-medals-subtle-dark.svg?v=202611" alt="学习经历以线段表示：2013.09–2019.06 温岭市城东小学，2019.09–2022.06 台州椒江北书学校，2022.09–2025.06 台州市书生中学，2025.09 至今上海交通大学致远学院。竞赛获奖以节点表示：2023.09 全国中学生奥林匹克数学竞赛三等奖🥉；2024.03 台州市数学、物理、信息学竞赛一等奖🥇及化学竞赛二等奖🥈；2024.09 全国中学生物理竞赛三等奖🥉；2025.11 全国大学生数学竞赛三等奖🥉；2026.10 中国教育技术协会“AI+教育”创新应用技能大赛二等奖🥈；2026.11 中国电信星辰杯高校AI算子开发挑战赛一等奖🥇" width="100%" />
 </picture>
 
 <p align="center">
@@ -72,7 +72,7 @@
 | 项目 | 简介 |
 | --- | --- |
 | 🚄 [轨迹 · 铁路出行规划](https://github.com/serendipitylin0731/ticket_planner_realease) | 独立开发的 Web 与 Android 铁路出行规划工具；支持多组出发、到达及有序途径站，按日期查询 12306 实际车次，规划直达或最多 3 次换乘；结果分直达和中转展示，社区静态时刻表仅辅助搜索 |
-| 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 中国教育技术协会——“AI+教育”创新应用技能大赛参赛作品，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
+| 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 获中国教育技术协会“AI+教育”创新应用技能大赛二等奖，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
 | 📖 [知页 TA Agent](https://github.com/serendipitylin0731/TA_agent) | 面向初高中师生的教材知识库与智能问答系统；接入 113 册教材，支持带教材与 PDF 页码来源的问答、原文检索和双页阅读 |
 | 🏫 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing) | 基于 Tkinter 的本地桌面工具，为书生中学批量导入班级坐班统计表；自动核对节数、标记异常数据并辅助修正教师姓名，校验后预览津贴明细并导出 Excel 工资表 |
 | 🖥️ [Hello! Codex](https://github.com/serendipitylin0731/Hello-Codex) | 独立开发的 Windows Codex 额度启动器；通过本机 App Server 展示五小时额度与重置时间，按可配置的每日启用时段自动发送任务，也支持确认后手动发送；具备托盘后台运行、开机启动和同一额度窗口防重复 |
