@@ -58,7 +58,7 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 
 - Serving as a teaching assistant for [Programming and Data Structures in the 2026 JOHN Class](https://github.com/SJTUJohnClass) at Zhiyuan College. I'm responsible for [Gitlite, a lightweight Git learning project](https://github.com/SJTUJohnClass/gitlite), and teach [divide and conquer algorithms and sorting](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf) and [search algorithms](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx).
 - Developing and customizing templates for an academic scheduling system. This project is not yet open source; feel free to email me about it.
-- Developing [Snap Solve](https://github.com/serendipitylin0731/Snap_Solve), a Windows screenshot-to-Markdown and problem-solving tool. It captures a selected area or monitors it for changes, uses DeepSeek for transcription and solutions separately or together, and offers adjustable solving effort, answer-only output, and editable results.
+- Developing [Shizi](https://github.com/serendipitylin0731/everything_to_text), an Android and browser tool for recognizing Chinese and English text from photos or selected images, editing the results, and exporting Markdown, Word, or PDF.
 
 ### 🚀 Completed projects
 
@@ -83,6 +83,7 @@ I'm interested in thought puzzles, mathematics, and programming problems. I ofte
 | 🏫 [Teacher Attendance and Salary Statistics Program](https://github.com/serendipitylin0731/Salary_Computing) | A local Tkinter desktop tool for Taizhou Sunson Middle School that imports class attendance sheets in batches, checks session counts, flags data errors, and helps correct teacher names. It previews allowance totals after validation and exports an Excel salary sheet. |
 | 🏎️ [QQ Speed Garage (极速仓库)](https://github.com/serendipitylin0731/QQspeed_gaming) | A local QQ Speed library and event manager with track and car catalogs, pool filters, a random wheel, match scoring, and saved results. Data stays local and can be backed up. |
 | 🖥️ [Hello! Codex](https://github.com/serendipitylin0731/Hello-Codex) | An independently developed Windows Codex quota launcher for ChatGPT Plus. It reads the five-hour window through the local App Server, schedules tasks across configurable daily active periods, and offers confirmed manual sending, tray operation, startup with Windows, and duplicate prevention. |
+| 📷 [Snap Solve](https://github.com/serendipitylin0731/Snap_Solve) | A Windows screenshot-to-Markdown and problem-solving tool. It captures a selected area or monitors it for changes, uses DeepSeek for transcription and solutions separately or together, and offers adjustable solving effort, answer-only output, and editable results. |
 
 ### 📚 Shared resources
 

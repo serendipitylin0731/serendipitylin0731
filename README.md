@@ -58,7 +58,7 @@
 
 - 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/SJTUJohnClass/gitlite)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
 - 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
-- 开发 [Snap Solve](https://github.com/serendipitylin0731/Snap_Solve)：一款 Windows 截图转 Markdown 与解题工具；可框选区域或持续监测画面变化，通过 DeepSeek 分别或同时完成题目转写与解答，支持调整解题强度、只输出答案，以及编辑复制结果
+- 开发 [拾字](https://github.com/serendipitylin0731/everything_to_text)：面向安卓和浏览器的图片文字识别工具；支持拍照或批量选图、本地中英文识别、编辑整理，并导出 Markdown、Word 或 PDF
 
 ### 🚀 已结项
 
@@ -83,6 +83,7 @@
 | 🏫 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing) | 基于 Tkinter 的本地桌面工具，为书生中学批量导入班级坐班统计表；自动核对节数、标记异常数据并辅助修正教师姓名，校验后预览津贴明细并导出 Excel 工资表 |
 | 🏎️ [极速仓库](https://github.com/serendipitylin0731/QQspeed_gaming) | QQ 飞车本地资料与赛事管理应用，整合地图和赛车图鉴、图池筛选与随机转盘、赛事计分台和战绩存档；数据在本地保存，可导出备份 |
 | 🖥️ [Hello! Codex](https://github.com/serendipitylin0731/Hello-Codex) | 独立开发的 Windows Codex 额度启动器；通过本机 App Server 展示五小时额度与重置时间，按可配置的每日启用时段自动发送任务，也支持确认后手动发送；具备托盘后台运行、开机启动和同一额度窗口防重复 |
+| 📷 [Snap Solve](https://github.com/serendipitylin0731/Snap_Solve) | 一款 Windows 截图转 Markdown 与解题工具；可框选区域或持续监测画面变化，通过 DeepSeek 分别或同时完成题目转写与解答，支持调整解题强度、只输出答案，以及编辑复制结果 |
 
 ### 📚 资料分享
 
