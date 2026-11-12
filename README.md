@@ -54,6 +54,12 @@
 
 ## 🧩 我的项目
 
+### 🏫 近期项目
+
+- 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/SJTUJohnClass/gitlite)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
+- 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
+- 开发 [Snap Solve](https://github.com/serendipitylin0731/Snap_Solve)：一款 Windows 截图转 Markdown 与解题工具；可框选区域或持续监测画面变化，通过 DeepSeek 分别或同时完成题目转写与解答，支持调整解题强度、只输出答案，以及编辑复制结果
+
 ### 🚀 已结项
 
 > 可能会有不定期的 debug 或 improve 更新
@@ -75,14 +81,8 @@
 | 🧭 [“3820”知识助手与战略推演平台](https://github.com/serendipitylin0731/3820_agent) | 获中国教育技术协会“AI+教育”创新应用技能大赛二等奖，辅助《习近平新时代中国特色社会主义思想概论》课程教学；围绕福州“3820”战略工程，提供有来源的问答、指标查询与空间分析，并且允许直接检索现有资料 |
 | 📖 [知页 TA Agent](https://github.com/serendipitylin0731/TA_agent) | 面向初高中师生的教材知识库与智能问答系统；接入 113 册教材，支持带教材与 PDF 页码来源的问答、原文检索和双页阅读 |
 | 🏫 [教师出勤与工资统计程序](https://github.com/serendipitylin0731/Salary_Computing) | 基于 Tkinter 的本地桌面工具，为书生中学批量导入班级坐班统计表；自动核对节数、标记异常数据并辅助修正教师姓名，校验后预览津贴明细并导出 Excel 工资表 |
+| 🏎️ [极速仓库](https://github.com/serendipitylin0731/QQspeed_gaming) | QQ 飞车本地资料与赛事管理应用，整合地图和赛车图鉴、图池筛选与随机转盘、赛事计分台和战绩存档；数据在本地保存，可导出备份 |
 | 🖥️ [Hello! Codex](https://github.com/serendipitylin0731/Hello-Codex) | 独立开发的 Windows Codex 额度启动器；通过本机 App Server 展示五小时额度与重置时间，按可配置的每日启用时段自动发送任务，也支持确认后手动发送；具备托盘后台运行、开机启动和同一额度窗口防重复 |
-
-### 🏫 近期项目
-
-- 担任 **2026 级致远学院 [JOHN 班程序设计与数据结构](https://github.com/SJTUJohnClass) 助教**，负责 [Gitlite：轻量级 Git 学习项目](https://github.com/SJTUJohnClass/gitlite)，并讲解[分治算法与排序](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report-Divide%20and%20Conquer.pdf)、[搜索算法](https://github.com/serendipitylin0731/Documents/blob/main/Presentation/report_search-2026.pptx)
-- 开发和定制教务排课系统模板；项目暂未开源，欢迎通过邮件交流
-- 开发 [极速仓库](https://github.com/serendipitylin0731/QQspeed_gaming)：一款 QQ 飞车本地资料与赛事管理应用，整合地图和赛车图鉴、图池筛选与随机转盘、赛事计分台和战绩存档；数据在本地保存，可导出备份
-- 开发 [Snap Solve](https://github.com/serendipitylin0731/Snap_Solve)：一款 Windows 截图转 Markdown 与解题工具；可框选区域或持续监测画面变化，通过 DeepSeek 分别或同时完成题目转写与解答，支持调整解题强度、只输出答案，以及编辑复制结果
 
 ### 📚 资料分享
 
@@ -151,7 +151,6 @@
 - **羽毛球：** 擅长网前小球与劈吊。
 - **匹克球：** 课程双败淘汰赛季军。
 - **乒乓球：** 有多年学习经验；小学乒乓球联赛获得温岭市团队八强、个人四强。
-- **自行车：** 喜欢骑行。
 
 <p align="center">
   <picture>
